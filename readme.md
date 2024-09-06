@@ -2,6 +2,9 @@
 
 The **Lottie Animator Template** is a powerful and flexible tool designed to seamlessly integrate Lottie animations into your streams, whether the animation files are stored locally on your device or hosted remotely via a URL. This template provides easy customization and control over various aspects of your animations, including looping, playback direction, size, and position.
 
+## Buy
+https://html.graphics/l/lottie-animator-template/66d24c02-a321-46ec-971c-1ac14ddb80e6
+
 ## Key Features
 
 - **File Selection:** Choose Lottie animation files directly from your local storage or input a remote URL to use animations hosted on the web.
